@@ -1,6 +1,6 @@
 # Food-in-India
 
-here is a direct link to the CSV I used in my project: /kaggle/input/zomato-bangalore-restaurants/zomato.csv
+here is a direct link to the CSV I used in my project:[ /kaggle/input/zomato-bangalore-restaurants/zomato.csv](url)
 
 the summary of my project is :
 The project dives into how people in India experience food from restaurants. We're especially interested in the first time someone orders from a restaurant, whether they make a call or use the Internet.
