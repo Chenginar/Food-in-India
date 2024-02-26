@@ -1,6 +1,6 @@
 # Food-in-India
 
- Here is a direct link to the CSV I used in my project: [https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants](url)
+ Here is a direct link to the CSV I used in my project: [ https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants](url)
 
 # The summary of my project is :
 
